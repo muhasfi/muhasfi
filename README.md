@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning **Expressjs,Nestjs**
 
 - 📫 How to reach me **muhammadhasfi@gmail.com**
+  
+- 💬 Ask me about **nodejs**
+
+- ⚡ Fun fact **Lifelong learner and problem solver. Always looking for the next challenge to conquer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
