@@ -3,12 +3,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashfi</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Expressjs,Nestjs**
-
+- 🚀 I'm currently learning **Express.js, Vue.js**
+- 🔥 Proficient in **Laravel** & databases **PostgreSQL, MySQL**
+- 💬 Ask me about **Node.js, Laravel, or Database Design**
 - 📫 How to reach me **muhammadhasfi@gmail.com**
-  
-- 💬 Ask me about **nodejs**
-
 - ⚡ Fun fact **Lifelong learner and problem solver. Always looking for the next challenge to conquer.**
 
 <h3 align="left">Connect with me:</h3>
