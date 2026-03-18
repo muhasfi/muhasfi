@@ -7,7 +7,7 @@
 - 🔥 Proficient in **Laravel** & databases **PostgreSQL, MySQL**
 - 💬 Ask me about **Node.js, Laravel, or Database Design**
 - 📫 How to reach me **muhammadhasfi@gmail.com**
-- 🌐 Check out my portfolio **https://muhammadhashfi.vearcel.app/**
+- 🌐 Check out my portfolio **https://muhammadhashfi.vercel.app/**
 - ⚡ Fun fact **Lifelong learner and problem solver. Always looking for the next challenge to conquer.**
 
 <h3 align="left">Connect with me:</h3>
